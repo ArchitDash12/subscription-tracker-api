@@ -1,7 +1,8 @@
 {
   "name": "subtrack",
   "version": "0.0.0",
-  "private": "module",
+  "private": true,
+  "type": "module",
   "scripts": {
     "start": "node app.js",
     "dev": "nodemon app.js"
